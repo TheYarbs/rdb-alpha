@@ -78,3 +78,5 @@ mkdir website
 ls --color=auto
 c
 cd website/
+ls --color=auto
+ls --color=auto
