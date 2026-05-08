@@ -171,3 +171,9 @@ cd client/assets/images/
 cd ../../../
 cd images/
 ls --color=auto
+cd ..
+ls --color=auto
+cd images/
+ls --color=auto
+mv header ..
+mv header.png ..
