@@ -246,3 +246,6 @@ ls --color=auto
 ls --color=auto
 mv website/ website-boilerplate/
 ls --color=auto
+__vsc_prompt_cmd_original
+copy --help
+cp --help
