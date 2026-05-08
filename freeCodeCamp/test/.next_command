@@ -159,3 +159,4 @@ find -name src
 tree
 find
 cd client/
+mkdir assets
