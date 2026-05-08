@@ -261,3 +261,6 @@ find website-boilerplate/
 clear
 echo goodbye terminal
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/bin/linux-x64/8b640eef5a6c6089c029249d48efa5c99adf7d51/node' -p '"b0f4780d8c08" + JSON.stringify(process.env) + "b0f4780d8c08"'
