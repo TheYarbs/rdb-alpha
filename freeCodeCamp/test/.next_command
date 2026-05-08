@@ -249,3 +249,8 @@ ls --color=auto
 __vsc_prompt_cmd_original
 copy --help
 cp --help
+cp -r toms-website/
+mkdir toms-website
+cp -r toms-website/
+cp website-boilerplate/ toms-website/
+cp -r website-boilerplate/ toms-website/
