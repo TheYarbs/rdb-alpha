@@ -160,3 +160,4 @@ tree
 find
 cd client/
 mkdir assets
+cd assets/
