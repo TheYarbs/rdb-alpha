@@ -80,3 +80,4 @@ c
 cd website/
 ls --color=auto
 ls --color=auto
+echo hello website
