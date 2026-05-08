@@ -201,3 +201,8 @@ rm background.jpg
 cd ..
 rmdir images/
 ls --color=auto
+mkdir icons
+rmdir icons
+ls --color=auto
+find
+mkdir ./client/assets/icons
