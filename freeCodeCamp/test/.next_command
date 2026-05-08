@@ -245,3 +245,4 @@ cd ..
 ls --color=auto
 ls --color=auto
 mv website/ website-boilerplate/
+ls --color=auto
