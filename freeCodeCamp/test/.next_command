@@ -255,3 +255,4 @@ cp -r toms-website/
 cp website-boilerplate/ toms-website/
 cp -r website-boilerplate/ toms-website/
 ls --color=auto
+find toms-website/
